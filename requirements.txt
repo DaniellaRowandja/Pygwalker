@@ -1,3 +1,4 @@
 pip==24.0
 streamlit==1.31.1
+pygwalker==0.4.6
 
