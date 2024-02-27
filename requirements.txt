@@ -1,1 +1,3 @@
-altair.vegalite<5
+pip==24.0
+streamlit==1.31.1
+
