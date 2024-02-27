@@ -1,11 +1,3 @@
-""" import pandas as pd
-import streamlit as st
-import pygwalker as pyg
-
-df = pd.read_csv("/Users/rowandjadaniella/Downloads/apple_quality.csv")
-gwalker = pyg.walk(df) 
- """
-
 from pygwalker.api.streamlit import StreamlitRenderer, init_streamlit_comm
 import pandas as pd
 import streamlit as st
